@@ -1,1 +1,1 @@
-# -Pygame-Chess
+# Pygame-Chess
